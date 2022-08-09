@@ -1,0 +1,15 @@
+C:\Users\Алексей Белоглазов\OneDrive\Рабочий стол\Новая папка (2)\new_course_c\5hw1\bin\Debug\net6.0\5hw1.exe
+C:\Users\Алексей Белоглазов\OneDrive\Рабочий стол\Новая папка (2)\new_course_c\5hw1\bin\Debug\net6.0\5hw1.deps.json
+C:\Users\Алексей Белоглазов\OneDrive\Рабочий стол\Новая папка (2)\new_course_c\5hw1\bin\Debug\net6.0\5hw1.runtimeconfig.json
+C:\Users\Алексей Белоглазов\OneDrive\Рабочий стол\Новая папка (2)\new_course_c\5hw1\bin\Debug\net6.0\5hw1.dll
+C:\Users\Алексей Белоглазов\OneDrive\Рабочий стол\Новая папка (2)\new_course_c\5hw1\bin\Debug\net6.0\5hw1.pdb
+C:\Users\Алексей Белоглазов\OneDrive\Рабочий стол\Новая папка (2)\new_course_c\5hw1\obj\Debug\net6.0\5hw1.csproj.AssemblyReference.cache
+C:\Users\Алексей Белоглазов\OneDrive\Рабочий стол\Новая папка (2)\new_course_c\5hw1\obj\Debug\net6.0\5hw1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей Белоглазов\OneDrive\Рабочий стол\Новая папка (2)\new_course_c\5hw1\obj\Debug\net6.0\5hw1.AssemblyInfoInputs.cache
+C:\Users\Алексей Белоглазов\OneDrive\Рабочий стол\Новая папка (2)\new_course_c\5hw1\obj\Debug\net6.0\5hw1.AssemblyInfo.cs
+C:\Users\Алексей Белоглазов\OneDrive\Рабочий стол\Новая папка (2)\new_course_c\5hw1\obj\Debug\net6.0\5hw1.csproj.CoreCompileInputs.cache
+C:\Users\Алексей Белоглазов\OneDrive\Рабочий стол\Новая папка (2)\new_course_c\5hw1\obj\Debug\net6.0\5hw1.dll
+C:\Users\Алексей Белоглазов\OneDrive\Рабочий стол\Новая папка (2)\new_course_c\5hw1\obj\Debug\net6.0\refint\5hw1.dll
+C:\Users\Алексей Белоглазов\OneDrive\Рабочий стол\Новая папка (2)\new_course_c\5hw1\obj\Debug\net6.0\5hw1.pdb
+C:\Users\Алексей Белоглазов\OneDrive\Рабочий стол\Новая папка (2)\new_course_c\5hw1\obj\Debug\net6.0\5hw1.genruntimeconfig.cache
+C:\Users\Алексей Белоглазов\OneDrive\Рабочий стол\Новая папка (2)\new_course_c\5hw1\obj\Debug\net6.0\ref\5hw1.dll
